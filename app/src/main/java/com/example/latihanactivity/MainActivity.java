@@ -1,4 +1,4 @@
-package com.example.mainactivity;
+package com.example.LatihanActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
